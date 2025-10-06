@@ -6,15 +6,15 @@ class Config:
 
     SESSION_NAME = ""
 
-    API_ID = ""
+    API_ID = "22480303"
 
-    API_HASH = ""
+    API_HASH = "99c931b6c1ae6f8c3c3e87da173fa424"
 
-    CLIENT_ID = ""
+    CLIENT_ID = "34500002128-fle7t6mk0onsog8dbn162ou48dh6i2to.apps.googleusercontent.com"
 
-    CLIENT_SECRET = ""
+    CLIENT_SECRET = "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"
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = [7518770522]
 
     VIDEO_DESCRIPTION = ""
 
